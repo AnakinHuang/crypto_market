@@ -1,0 +1,83 @@
+/* 
+ Localizable.strings
+ Crypto Market
+ 
+ Created by Yuesong Huang on 12/12/22.
+ 
+ */
+
+"Crypto Market" = "Crypto Market";
+"version %@" = "Version: %@";
+"build %@" = "Build: %@";
+"api" = "API Doc.: coingecko.com";
+"Copyright © 2022 - ANAKIN Apps Inc." = "Copyright © 2022 - ANAKIN Apps Inc.";
+
+"appearance" = "Appearance";
+"text" = "Text";
+"auto" = "🎨 Auto";
+"red" = "🟥 Red";
+"orange" = "🟧 Orange";
+"blue" = "🟦 Blue";
+"system" = "🌎 System";
+"english" = "🇬🇧 English";
+"chinese" = "🇨🇳 中文";
+"german" = "🇩🇪 Deutsch";
+"sound" = "Sound";
+"allow_sound" = "Allow Sound Effects";
+"advanced" = "Advanced";
+"notification" = "Notification";
+"market_list" = "Market List";
+"reset" = "Reset";
+
+"allow_notifications" = "Allow Notifications";
+"title" = "Title";
+"notes" = "Notes";
+"set" = "Set Reminder";
+"sort" = "Sort By";
+
+"descending" = "Descending";
+"ascending" = "Ascending";
+"load" = "Load Quantity";
+
+"top %@" = "Top %@";
+"update %@" = "Updated %@";
+"back" = "Back";
+"press" = "Press to show/close details";
+"high" = "High:";
+"low" = "Low:";
+"MC" = "Market Cap: ";
+
+"dashboard" = "Dashboard";
+"markets" = "Markets";
+"settings" = "Settings";
+"info" = "Info";
+"nil" = "Nil";
+
+"yes" = "Yes";
+"no" = "No";
+"cancel" = "Cancel";
+"ok" = "OK";
+"action_sheet" = "Are you sure you want to leave the app?";
+"alert" = "Reset the entire app. This action is not undoable and will delete all your data.";
+"reminder: %@" = "Reminder: %@";
+
+"market_cap" = "Market Cap";
+"volume" = "Volume";
+"id" = "ID";
+"des_img" = "⬇️ Descending";
+"asc_img" = "⬆️ Ascending";
+
+"sort_MC_des" = "Sorted by Market Cap Descending";
+"sort_vol_des" = "Sorted by Volume Descending";
+"sort_id_des" = "Sorted by ID Descending";
+"sort_MC_asc" = "Sorted by Market Cap Ascending";
+"sort_vol_asc" = "Sorted by Volume Ascending";
+"sort_id_asc" = "Sorted by ID Ascending";
+
+"1h" = "1 Hour:";
+"7d" = "7 Days:";
+
+"vol." = "Vol.:";
+"cs." = "CS.:";
+"h:" = "H:";
+"l:" = "L:";

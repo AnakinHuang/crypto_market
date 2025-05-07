@@ -1,0 +1,84 @@
+/*
+ Localizable.strings
+ Crypto Market
+ 
+ Created by Yuesong Huang on 12/12/22.
+ 
+ */
+
+"Crypto Market" = "Krypto-Markt";
+"version %@" = "Ausführung: %@";
+"build %@" = "Bauen: %@";
+"api" = "API Dok.: coingecko.com";
+"Copyright © 2022 - ANAKIN Apps Inc." = "Urheberrechte © 2022 - ANAKIN Apps Inc.";
+
+"appearance" = "Thema";
+"text" = "Text";
+"auto" = "🎨 Auto";
+"red" = "🟥 Rot";
+"orange" = "🟧 Orange";
+"blue" = "🟦 Blau";
+"system" = "🌎 System";
+"english" = "🇬🇧 English";
+"chinese" = "🇨🇳 中文";
+"german" = "🇩🇪 Deutsch";
+"sound" = "Klang";
+"allow_sound" = "Toneffekte Zulassen";
+"advanced" = "Erweiterte";
+"notification" = "Benachrichtigung";
+"market_list" = "Marktliste";
+"reset" = "Zurücksetzen";
+
+"allow_notifications" = "Benachrichtigungen Zulassen";
+"title" = "Titel";
+"notes" = "Anmerkungen";
+"set" = "Erinnerung Einstellen";
+"sort" = "Sortieren Nach";
+
+"descending" = "Absteigend";
+"ascending" = "Aufsteigend";
+"load" = "Menge Laden";
+
+"top %@" = "Top %@";
+
+"update %@" = "Aktualisiert %@";
+"back" = "Der Rücken";
+"press" = "Drücken Sie, um Details anzuzeigen";
+"high" = "Hoch:";
+"low" = "Tief:";
+"MC" = "Marktkap.: ";
+
+"dashboard" = "Armaturenbrett";
+"markets" = "Märkte";
+"settings" = "Einstellungen";
+"info" = "Info";
+"nil" = "Null";
+
+"yes" = "Ja";
+"no" = "Nein";
+"cancel" = "Absagen";
+"ok" = "OK";
+"action_sheet" = "Möchten Sie die App wirklich verlassen?";
+"alert" = "Setzen Sie die gesamte App zurück. Diese Aktion kann nicht rückgängig gemacht werden und löscht alle Ihre Daten.";
+"reminder: %@" = "Erinnerung: %@";
+
+"market_cap" = "Marktkapitalisierung";
+"volume" = "Volumen";
+"id" = "ID";
+"des_img" = "⬇️ Absteigend";
+"asc_img" = "⬆️ Aufsteigend";
+
+"sort_MC_des" = "Sortiert nach Marktkap. absteigend";
+"sort_vol_des" = "Sortiert nach Volumen absteigend";
+"sort_id_des" = "Sortiert nach ID Absteigend";
+"sort_MC_asc" = "Sortiert nach Marktkap. Aufsteigend";
+"sort_vol_asc" = "Sortiert nach Volumen aufsteigend";
+"sort_id_asc" = "Sortiert nach ID Aufsteigend";
+
+"1h" = "1 Stunde:";
+"7d" = "7 Tage:";
+
+"vol." = "Vol.:";
+"cs." = "ZV.:";
+"h:" = "H:";
+"l:" = "T:";
