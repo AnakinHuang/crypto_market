@@ -85,6 +85,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 👤 Author
 
-- **Yuesong Huang** – [GitHub](https://github.com/AnakinHuang)
+- **Yuesong Huang** (yhu116@u.rochester.edu)
 
 ---
