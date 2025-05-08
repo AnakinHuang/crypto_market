@@ -79,7 +79,7 @@ The app integrates with the [CoinGecko API](https://www.coingecko.com/en/api) to
 
 ## 📄 License
 
-This project is licensed under the SD 3-Clause License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the BSD 3-Clause License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
