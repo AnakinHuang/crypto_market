@@ -1,6 +1,6 @@
 # 📱 Crypto Market iOS App
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: BSD](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)
 
 ## 🚀 Overview
 
@@ -79,7 +79,7 @@ The app integrates with the [CoinGecko API](https://www.coingecko.com/en/api) to
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the SD 3-Clause License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
